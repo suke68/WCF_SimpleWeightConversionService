@@ -1,0 +1,6 @@
+c:\users\frank  j\documents\visual studio 2013\Projects\WCF_WeightConversionService\WCF_WeightConversionService\bin\Debug\WCF_WeightConversionService.dll.config
+c:\users\frank  j\documents\visual studio 2013\Projects\WCF_WeightConversionService\WCF_WeightConversionService\bin\Debug\WCF_WeightConversionService.dll
+c:\users\frank  j\documents\visual studio 2013\Projects\WCF_WeightConversionService\WCF_WeightConversionService\bin\Debug\WCF_WeightConversionService.pdb
+c:\users\frank  j\documents\visual studio 2013\Projects\WCF_WeightConversionService\WCF_WeightConversionService\obj\Debug\WCF_WeightConversionService.csprojResolveAssemblyReference.cache
+c:\users\frank  j\documents\visual studio 2013\Projects\WCF_WeightConversionService\WCF_WeightConversionService\obj\Debug\WCF_WeightConversionService.dll
+c:\users\frank  j\documents\visual studio 2013\Projects\WCF_WeightConversionService\WCF_WeightConversionService\obj\Debug\WCF_WeightConversionService.pdb
